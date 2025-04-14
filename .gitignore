@@ -1,0 +1,29 @@
+# Node
+node_modules/*
+dist/
+.yarn/
+.yarnrc.yml
+.pnp.*
+.env
+.env.local
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Tests
+coverage/
+*.test.ts
+*.test.tsx
+
+# npm
+.npmrc
