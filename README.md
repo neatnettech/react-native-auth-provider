@@ -2,6 +2,14 @@
 
 > A provider-agnostic session context for Expo / React Native apps — modular, clean, and extensible.
 
+> **if you want to contiribute to this project, contact me : pp@neatnet.tech**
+
+## 📦 GitHub
+
+This package is developed and maintained at:
+
+👉 [GitHub Repository](https://github.com/neatnettech/react-native-auth-provider)
+
 ---
 
 ## ✨ Features
