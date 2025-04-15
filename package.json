@@ -1,6 +1,6 @@
 {
   "name": "@neatnettech/react-native-auth-provider",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "Provider-agnostic auth session provider for React Native / Expo",
